@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Cursando ADS<br>📩 Contate-me no email: teixeiraquel0@gmail.com
+📚 Cursando ADS<br>📩 Contate-me no email: teixeiraquel0@gmail.com
 
 
 # 💻 Tech Stack:
